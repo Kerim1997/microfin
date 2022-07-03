@@ -1,0 +1,9 @@
+.StartPage{
+    
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-image: url("https://i.postimg.cc/G3Kpm3Dr/stock-gea892eeae-1920.jpg");
+   
+}

@@ -41,7 +41,7 @@ function App() {
    
     <div className="App">
     
-       <HeaderDiv/>  
+   
 
        <div className="ConteinerPostItem">{
     
@@ -49,7 +49,7 @@ function App() {
           <PostItem key={post.id} post={post} />)}
        </div>
       {data ? <TextBlock block={data} /> : <></>}
-      <MyFooter></MyFooter>
+      
 
     </div>
     
