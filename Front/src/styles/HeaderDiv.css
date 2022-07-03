@@ -1,0 +1,15 @@
+.HeaderDiv{
+   
+    height: 150px;
+    display: flex;
+    background-color:#cd8c52;
+    justify-content: space-between;
+   
+}
+.Logo{
+
+    display: flex;
+}
+.LogoImage:hover{
+    cursor: pointer;
+}

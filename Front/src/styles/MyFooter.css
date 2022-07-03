@@ -1,0 +1,26 @@
+.Footer{
+    width: 100%;
+    background-color:#cd8c52 ;
+    display: flex;
+     flex-direction: row;
+     flex-wrap: wrap; 
+}
+.FirstDiv{
+    margin: 4%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 30%;
+    
+}
+.SecondDiv{
+    margin: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    
+
+}

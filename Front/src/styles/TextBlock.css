@@ -1,0 +1,7 @@
+.KontentTextBlock{
+    display: flex;
+    background-color:#ecc19b ;
+    margin: 7%;
+    flex-direction: column;
+    border-radius: 1%;
+}
