@@ -42,7 +42,6 @@ function App() {
     <div className="App">
     
        <HeaderDiv/>  
-        <div>sadsadasdsad</div>
 
        <div className="ConteinerPostItem">{
     
