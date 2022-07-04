@@ -12,7 +12,7 @@ ReactDOM.render((
    <div className="StartPage">
     
     <Router>
-        <Link to='/fo'>Press me</Link>
+       
     <HeaderDiv/>
     <Routes>
       <Route path='/' element={<App/>}/>

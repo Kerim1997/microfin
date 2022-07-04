@@ -1,5 +1,6 @@
 import React from "react";
 import '../styles/HeaderDiv.css';
+import {Link} from 'react-router-dom';
 
 
 const HeaderDiv = function(){
@@ -9,7 +10,8 @@ const HeaderDiv = function(){
             <img src="https://i.ibb.co/NrGRqpx/image.png" alt="image" className="LogoImage" border="0"></img>
             </div>
             <div>
-                <button>Enter</button>
+                <Link to = '/fo'><button>Enter</button></Link>
+         
             </div>
         </div>
     )
