@@ -12,11 +12,11 @@ ReactDOM.render((
    <div className="StartPage">
     
     <Router>
-       
+      
     <HeaderDiv/>
     <Routes>
       <Route path='/' element={<App/>}/>
-      <Route path='/fo' element={<MyFooter/>}/>
+      
       
     </Routes>
     <MyFooter/>
